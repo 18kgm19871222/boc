@@ -15,3 +15,8 @@ pi.as_integer_ratio()
 import os # importing module
 print(os.getcwd()) # gets current working directory
 os.cpu_count()
+
+
+
+
+
